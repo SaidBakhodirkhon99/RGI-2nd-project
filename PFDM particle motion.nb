@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    133540,       2558]
-NotebookOptionsPosition[    130709,       2505]
-NotebookOutlinePosition[    131073,       2521]
-CellTagsIndexPosition[    131030,       2518]
+NotebookDataLength[    134177,       2578]
+NotebookOptionsPosition[    131122,       2521]
+NotebookOutlinePosition[    131486,       2537]
+CellTagsIndexPosition[    131443,       2534]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -2498,10 +2498,26 @@ iPT/AGS9/R8=
 }, Open  ]]
 }, Closed]],
 
+Cell[CellGroupData[{
+
 Cell["ISCO radius", "Section",
  CellChangeTimes->{{3.93357652544899*^9, 
   3.933576527851149*^9}},ExpressionUUID->"cb19987c-5370-4271-9d67-\
-6603efe34421"]
+6603efe34421"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"y", "[", "x_", "]"}], "=", "x"}], ";"}]], "Input",
+ CellChangeTimes->{{3.933586897104083*^9, 
+  3.93358690633073*^9}},ExpressionUUID->"cbf4103f-2533-4401-969c-\
+5414a2875968"],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.93358680598295*^9, 
+  3.933586824403376*^9}},ExpressionUUID->"f88ae7fe-b153-49b0-8d38-\
+559f35184972"]
+}, Open  ]]
 },
 WindowSize->{1920, 1007},
 WindowMargins->{{0, Automatic}, {0, Automatic}},
@@ -2521,7 +2537,7 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[580, 22, 208, 4, 152, "Section",ExpressionUUID->"d4764ddf-4f53-4b63-b8b4-a96124561e76"],
+Cell[580, 22, 208, 4, 96, "Section",ExpressionUUID->"d4764ddf-4f53-4b63-b8b4-a96124561e76"],
 Cell[CellGroupData[{
 Cell[813, 30, 5451, 149, 815, "Input",ExpressionUUID->"efc78086-6aac-4a91-8026-64b0124d428f"],
 Cell[6267, 181, 740, 14, 115, "Message",ExpressionUUID->"d72c70af-5fe5-4799-83bc-ca3bdb579b9e"],
@@ -2559,7 +2575,11 @@ Cell[100527, 1961, 1238, 32, 227, "Input",ExpressionUUID->"d60d2245-135d-48b9-b8
 Cell[101768, 1995, 28755, 501, 334, "Output",ExpressionUUID->"49145b30-df63-4ac0-8a8b-d5489b4554a3"]
 }, Open  ]]
 }, Closed]],
-Cell[130550, 2500, 155, 3, 75, "Section",ExpressionUUID->"cb19987c-5370-4271-9d67-6603efe34421"]
+Cell[CellGroupData[{
+Cell[130572, 2502, 155, 3, 75, "Section",ExpressionUUID->"cb19987c-5370-4271-9d67-6603efe34421"],
+Cell[130730, 2507, 222, 6, 44, "Input",ExpressionUUID->"cbf4103f-2533-4401-969c-5414a2875968"],
+Cell[130955, 2515, 151, 3, 44, "Input",ExpressionUUID->"f88ae7fe-b153-49b0-8d38-559f35184972"]
+}, Open  ]]
 }
 ]
 *)
